@@ -1,0 +1,7 @@
+Set class implemented in c++.
+
+build
+make all
+
+run
+./set_progam
